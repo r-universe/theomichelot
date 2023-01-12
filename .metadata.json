@@ -1,5 +1,9 @@
 [
   {
+    "package": "hmmTMB",
+    "oncran": true
+  },
+  {
     "package": "moveHMM",
     "oncran": true
   }
